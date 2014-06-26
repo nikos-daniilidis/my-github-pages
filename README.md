@@ -6,6 +6,11 @@ have converted to html. Most of these support the material which I
 post on my blog (http://oligotropos.wordpress.com/). You can use this 
 as a general guide to my repository.
 
+6. Looking for the best doctor my health insurance will buy.
+[IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_nonames.ipynb)/
+[html](http://nikos-daniilidis.github.io/find-md/find_me_a_doc_nonames.html)/
+[Blog post](http://oligotropos.wordpress.com/2014/06/25/staying-healthy-staying-sane/#more-214)
+
 5. Short experimentation with k-means clustering on text data.
 [IPython notebook](https://github.com/nikos-daniilidis/haystack/blob/master/clustering-performance-short.ipynb)/
 [html](http://nikos-daniilidis.github.io/haystack/clustering-performance-short.html)/
