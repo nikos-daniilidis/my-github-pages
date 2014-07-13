@@ -1,10 +1,15 @@
 # my github pages
 
 This is a list of IPython notebooks from various projects on 
-my github account (https://github.com/nikos-daniilidis) which I 
+[my github account](https://github.com/nikos-daniilidis) which I 
 have converted to html. Most of these support the material which I
-post on my blog (http://oligotropos.wordpress.com/). You can use this 
+post on [my blog](http://oligotropos.wordpress.com/). You can use this 
 as a general guide to my repository.
+
+7. Data imputation with Pandas dataframes (with examples from doctor ratings data).
+[IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_imputation.ipynb)/
+[html](http://nikos-daniilidis.github.io/find-md/find_me_a_doc_imputation.html)/
+[Blog post](http://oligotropos.wordpress.com/2014/07/12/ihmo-continued-the-brute-the-stochastic-and-the-aggressive/)
 
 6. Looking for the best doctor my health insurance will buy.
 [IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_nonames.ipynb)/
