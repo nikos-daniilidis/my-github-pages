@@ -1,10 +1,15 @@
 # my github pages
 
-This is a list of IPython notebooks from various projects on 
+This is a list (newest first) of IPython notebooks from various projects on 
 [my github account](https://github.com/nikos-daniilidis) which I 
 have converted to html. Most of these support the material which I
 post on [my blog](http://oligotropos.wordpress.com/). You can use this 
 as a general guide to my repository.
+
+8. PCA and bootstrapping analysis (applied to doctor ratings data).
+[IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_pca-score.ipynb)/
+[html](http://nikos-daniilidis.github.io/find-md/find_me_a_doc_pca-score.html)/
+[Blog post](http://oligotropos.wordpress.com/2014/07/14/picking-a-doctor/)
 
 7. Data imputation with Pandas dataframes (with examples from doctor ratings data).
 [IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_imputation.ipynb)/
