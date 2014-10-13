@@ -6,6 +6,10 @@ have converted to html. Most of these support the material which I
 post on [my blog](http://oligotropos.wordpress.com/). You can use this 
 as a general guide to my repository.
 
+9. MapReduce, basic examples
+[IPython notebook](https://github.com/nikos-daniilidis/hadoop-mapreduce-o/blob/master/MapReduceLemmings.ipynb)
+[Blog post](oligotropos.wordpress.com/2014/10/13/mapreduce-lemmings-in-the-21st-century)
+
 8. PCA and bootstrapping analysis (applied to doctor ratings data).
 [IPython notebook](https://github.com/nikos-daniilidis/find-md/blob/master/find_me_a_doc_pca-score.ipynb)/
 [html](http://nikos-daniilidis.github.io/find-md/find_me_a_doc_pca-score.html)/
